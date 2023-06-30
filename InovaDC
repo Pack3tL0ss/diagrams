@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T19:11:32.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OegLxg6tROLjDKsaTgk4" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T19:12:07.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6TMq0WUWOhfwp3ejhTRV" version="21.5.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="DCv1">
     <mxGraphModel dx="1895" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="none" math="0" shadow="0">
       <root>
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="QRRe2-Yviglaa-N-TXE0-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Border&lt;br&gt;&lt;/span&gt;(VSX/Virtual VTEP)" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="75" y="50" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QRRe2-Yviglaa-N-TXE0-15" value="100G from each border to each (2) PANs" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="395" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
