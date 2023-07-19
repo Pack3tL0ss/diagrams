@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T16:42:11.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_hkXqMVO6IhrzHGUCuNT" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T17:08:31.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="re5c-CJvfc3d5W_FcDTy" version="21.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="DCv1">
     <mxGraphModel dx="1886" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="none" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
         <mxCell id="U4SoBzc4xQCM_4O5qT8b-11" value="100G Fiber 2x100G AOC Splitter" style="text;strokeColor=#36393d;align=center;fillColor=#ffff88;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="390" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U4SoBzc4xQCM_4O5qT8b-13" value="OOBM Not represented.&amp;nbsp; Will be sperate 1G copper switches" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="U4SoBzc4xQCM_4O5qT8b-13" value="OOBM Not represented.&amp;nbsp; 6300M 1 per row" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1820" y="370" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sVctWiU_o9Zz5P4U1WXX-1" value="... 15 total racks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
